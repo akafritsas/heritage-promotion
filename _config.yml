@@ -17,7 +17,7 @@ title: Ιστοχώρος προβολής πολιτιστικού περιεχ
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ο ιστοχώρος αυτός αναπτύχτηκε από τους ΚΑΦΡΙΤΣΑΣ ΣΠΥΡΙΔΩΝ
-  στα πλαίσια εργασίας του μαθήματος .....................
+  στα πλαίσια εργασίας του μαθήματος ΕΡΓΑΛΕΙΑ ΠΡΟΒΟΛΗΣ ΠΟΛΙΤΙΣΤΙΚΟΥ ΚΑΙ ΤΟΥΡΙΣΤΙΚΟΥ ΠΡΟΪΟΝΤΟΣ
   του ΠΜΣ ΨΗΦΙΑΚΕΣ ΕΦΑΡΜΟΓΕΣ ΚΑΙ ΚΑΙΝΟΤΟΜΙΑ του Ιονίου Πανεπιστημίου.
 baseurl: "heritage-promotion" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
