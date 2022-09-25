@@ -1,7 +1,7 @@
 ---
 layout: poi
-wikidatum: Q114199387
+wikidatum: Q121378
 title:  Κέρκυρα
 ---
 
-Το νέο λιμάνι της Κέρκυρας στο Ακρωτήρι Σίδερο.
+Sample text
